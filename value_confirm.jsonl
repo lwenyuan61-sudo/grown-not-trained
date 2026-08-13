@@ -1,0 +1,61 @@
+{"rung": "C1", "seed": 101, "body": 1.0, "sham": 0.12, "PASS": true}
+{"rung": "C1", "seed": 103, "body": 1.0, "sham": 0.12, "PASS": true}
+{"rung": "C1", "seed": 107, "body": 1.0, "sham": 0.07, "PASS": true}
+{"rung": "C1", "seed": 109, "body": 1.0, "sham": 0.03, "PASS": true}
+{"rung": "C1", "seed": 113, "body": 1.0, "sham": 0.17, "PASS": true}
+{"rung": "C1", "seed": 127, "body": 1.0, "sham": 0.12, "PASS": true}
+{"rung": "C1", "seed": 131, "body": 1.0, "sham": 0.2, "PASS": true}
+{"rung": "C1", "seed": 137, "body": 1.0, "sham": 0.12, "PASS": true}
+{"rung": "C1", "seed": 139, "body": 1.0, "sham": 0.12, "PASS": true}
+{"rung": "C1", "seed": 149, "body": 1.0, "sham": 0.2, "PASS": true}
+{"rung": "C2", "seed": 101, "prefA": 1.0, "swap_prefA": 1.0, "PASS": false}
+{"rung": "C2", "seed": 103, "prefA": 0.0, "swap_prefA": 0.0, "PASS": false}
+{"rung": "C2", "seed": 107, "prefA": 1.0, "swap_prefA": 0.0, "PASS": true}
+{"rung": "C2", "seed": 109, "prefA": 1.0, "swap_prefA": 1.0, "PASS": false}
+{"rung": "C2", "seed": 113, "prefA": 1.0, "swap_prefA": 0.0, "PASS": true}
+{"rung": "C2", "seed": 127, "prefA": 0.0, "swap_prefA": 0.0, "PASS": false}
+{"rung": "C2", "seed": 131, "prefA": 1.0, "swap_prefA": 1.0, "PASS": false}
+{"rung": "C2", "seed": 137, "prefA": 0.0, "swap_prefA": 0.0, "PASS": false}
+{"rung": "C2", "seed": 139, "prefA": 0.0, "swap_prefA": 0.0, "PASS": false}
+{"rung": "C2", "seed": 149, "prefA": 1.0, "swap_prefA": 0.94, "PASS": false}
+{"rung": "C4", "seed": 101, "bare_T": 0.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 103, "bare_T": 1.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 107, "bare_T": 0.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 109, "bare_T": 1.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 113, "bare_T": 0.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 127, "bare_T": 1.0, "wired_T": 0.03, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 131, "bare_T": 0.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 137, "bare_T": 1.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 139, "bare_T": 1.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C4", "seed": 149, "bare_T": 0.0, "wired_T": 0.0, "wired_A": 1.0, "PASS": true}
+{"rung": "C3", "seed": 101, "eat_hungry": 0.86, "eat_full": 0.0, "n": [143, 52], "PASS": true}
+{"rung": "C3", "seed": 103, "eat_hungry": 0.85, "eat_full": 0.0, "n": [137, 55], "PASS": true}
+{"rung": "C3", "seed": 107, "eat_hungry": 0.81, "eat_full": 0.0, "n": [150, 47], "PASS": true}
+{"rung": "C3", "seed": 109, "eat_hungry": 0.85, "eat_full": 0.0, "n": [137, 59], "PASS": true}
+{"rung": "C3", "seed": 113, "eat_hungry": 0.89, "eat_full": 0.0, "n": [133, 41], "PASS": true}
+{"rung": "C3", "seed": 127, "eat_hungry": 0.86, "eat_full": 0.0, "n": [127, 61], "PASS": true}
+{"rung": "C3", "seed": 131, "eat_hungry": 0.91, "eat_full": 0.0, "n": [129, 53], "PASS": true}
+{"rung": "C3", "seed": 137, "eat_hungry": 0.92, "eat_full": 0.0, "n": [95, 94], "PASS": true}
+{"rung": "C3", "seed": 139, "eat_hungry": 0.88, "eat_full": 0.0, "n": [90, 98], "PASS": true}
+{"rung": "C3", "seed": 149, "eat_hungry": 0.94, "eat_full": 0.0, "n": [67, 121], "PASS": true}
+{"rung": "C5", "seed": 101, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.54, "twinE": 0.09, "hits": [2, 157], "PASS": true}
+{"rung": "C5", "seed": 103, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.56, "twinE": 0.07, "hits": [1, 122], "PASS": true}
+{"rung": "C5", "seed": 107, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.53, "twinE": 0.1, "hits": [3, 125], "PASS": true}
+{"rung": "C5", "seed": 109, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.57, "twinE": 0.09, "hits": [2, 153], "PASS": true}
+{"rung": "C5", "seed": 113, "prich_cond": 0.0, "toxic": 0.0, "meanE": 0.38, "twinE": 0.06, "hits": [2, 123], "PASS": false}
+{"rung": "C5", "seed": 127, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.44, "twinE": 0.07, "hits": [1, 133], "PASS": true}
+{"rung": "C5", "seed": 131, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.57, "twinE": 0.09, "hits": [3, 131], "PASS": true}
+{"rung": "C5", "seed": 137, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.57, "twinE": 0.09, "hits": [1, 116], "PASS": true}
+{"rung": "C5", "seed": 139, "prich_cond": 1.0, "toxic": 0.0, "meanE": 0.56, "twinE": 0.09, "hits": [1, 112], "PASS": true}
+{"rung": "C5", "seed": 149, "prich_cond": 0.0, "toxic": 0.0, "meanE": 0.46, "twinE": 0.08, "hits": [1, 114], "PASS": false}
+{"rung": "C6", "seed": 101, "winter_P_rich": 1.0, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 103, "winter_P_rich": 0.99, "winter_meanE": 0.56, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 107, "winter_P_rich": 0.98, "winter_meanE": 0.55, "alive": 0.99, "PASS": true}
+{"rung": "C6", "seed": 109, "winter_P_rich": 1.0, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 113, "winter_P_rich": 0.99, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 127, "winter_P_rich": 1.0, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 131, "winter_P_rich": 1.0, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 137, "winter_P_rich": 1.0, "winter_meanE": 0.59, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 139, "winter_P_rich": 1.0, "winter_meanE": 0.58, "alive": 1.0, "PASS": true}
+{"rung": "C6", "seed": 149, "winter_P_rich": 1.0, "winter_meanE": 0.54, "alive": 1.0, "PASS": true}
+{"rung": "TALLY", "C1": "10/10", "C2": "2/10", "C4": "10/10", "C3": "10/10", "C5": "8/10", "C6": "10/10"}
