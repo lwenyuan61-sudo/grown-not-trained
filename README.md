@@ -4,6 +4,9 @@ Code, data, and live demonstrations for the paper **"Grown, not trained: a
 backpropagation-free neural organism that learns while it lives, taught only by its own
 body"** (Wenyuan Li, submitted).
 
+Follow-up work — a continuously running brain-inspired recurrent network with one-shot
+hippocampal memory — is live at **[bowl.chat](https://bowl.chat)**.
+
 A recurrent neural tissue whose only learning mechanism is local three-factor chemistry —
 no gradients, no objective function, no optimizer, no training phase. Coupled to a
 metabolic body through three fixed wires (gut→dopamine scaled by need; damage→opponent
