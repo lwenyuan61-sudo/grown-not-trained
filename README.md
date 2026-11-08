@@ -26,20 +26,6 @@ python run_all.py full   # reproduce every number in the paper (hours)
 
 On Windows, double-click `run_all.bat`.
 
-## Live in your browser — no install
-
-Open either page in any modern browser (offline works):
-
-- **`wanning_value_machine.html`** — the organism lives in a world of cards you define
-  (name, energy, supply). Watch it learn what to want; ask it at any moment what it
-  would choose; sever its teaching wires to meet the twin from the paper.
-- **`wanning_learning_machine.html`** — teach it any symbolic pattern with example
-  cards; press Start and it develops continuously (learning, pruning, anchoring);
-  quiz it on pairs it was never taught.
-
-Both pages draw every one of the 442 neurons and 24,926 synapses of the exported engine
-connectome and run the paper's tick() physics live.
-
 ## Map of the repository
 
 | File | What it is |

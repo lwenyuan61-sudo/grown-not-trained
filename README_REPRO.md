@@ -35,4 +35,3 @@ runs; exploratory development used different seeds and is not part of any claim.
 - Constants and their provenance: Methods Table 1 and `CELL_ATLAS.md` §10.
 - Historical materials from earlier development phases (superseded packs, retired
   protocols) remain in the repository history but support no claim in the paper.
-- Browser demonstrations are illustrations, not evidence, and are labeled as such.
