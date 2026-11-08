@@ -26,8 +26,6 @@ runs; exploratory development used different seeds and is not part of any claim.
 | Tabular Q baseline, identical payout/observations/budget (30 seeds) | `python q_baseline.py` | q_baseline.jsonl |
 | Fig. 2 fully-logged life | `python trace_life.py` | life_trace.jsonl |
 | Fig. 6 logged discovery life | `python discover_trace.py` | discover_trace.jsonl |
-| Figures 1–6 | `cd paper/figs && python build_figs3.py` | fig*.png/pdf |
-| English submission draft | `cd paper && python split_en.py` | manuscript_EN.md |
 
 ## Notes
 - The main pack runs with plasticity active at every tick (`alwaysOn=1`, `datPump=1`);
