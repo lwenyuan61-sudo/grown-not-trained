@@ -1,6 +1,6 @@
 # Grown, not trained
 
-Code, data, and live demonstrations for the paper **"Grown, not trained: a
+Code and data for the paper **"Grown, not trained: a
 backpropagation-free neural organism that learns while it lives, taught only by its own
 body"** (Wenyuan Li, submitted).
 
